@@ -1,0 +1,16 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: OK}
+    created: 1544162394525
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: OK}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: OK
+    used: true

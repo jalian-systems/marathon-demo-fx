@@ -1,0 +1,55 @@
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: type, value: javafx.stage.Stage}
+    - {name: title, value: Ensemble}
+    containerRecognitionProperties:
+    - {method: equals, name: type, value: javafx.stage.Stage}
+    - {method: equals, name: title, value: Ensemble}
+    containerTitles: [Ensemble]
+    created: 1544110097302
+    fileName: Ensemble_4191072849134971006.yaml
+    modified: 1544444714026
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: type, value: javafx.scene.control.HeavyweightDialog$1}
+    - {name: title, value: Message}
+    containerRecognitionProperties:
+    - {method: equals, name: type, value: javafx.scene.control.HeavyweightDialog$1}
+    - {method: equals, name: title, value: Message}
+    containerTitles: [Message]
+    created: 1544162389858
+    fileName: Message_7361234772070943481.yaml
+    modified: 1544444714026
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: type, value: javafx.scene.control.HeavyweightDialog$1}
+    - {name: title, value: Warning}
+    containerRecognitionProperties:
+    - {method: equals, name: type, value: javafx.scene.control.HeavyweightDialog$1}
+    - {method: equals, name: title, value: Warning}
+    containerTitles: [Warning]
+    created: 1544162394525
+    fileName: Warning_8256639303114990201.yaml
+    modified: 1544444714026
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: type, value: javafx.scene.control.HeavyweightDialog$1}
+    - {name: title, value: Program exception}
+    containerRecognitionProperties:
+    - {method: equals, name: type, value: javafx.scene.control.HeavyweightDialog$1}
+    - {method: equals, name: title, value: Program exception}
+    containerTitles: [Program exception]
+    created: 1544162396906
+    fileName: Program exception_5658880736154538323.yaml
+    modified: 1544444714026
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: type, value: javafx.scene.control.HeavyweightDialog$1}
+    - {name: title, value: Text Input Dialog}
+    containerRecognitionProperties:
+    - {method: equals, name: type, value: javafx.scene.control.HeavyweightDialog$1}
+    - {method: equals, name: title, value: Text Input Dialog}
+    containerTitles: [Text Input Dialog]
+    created: 1544162408946
+    fileName: Text Input Dialog_1162478585717739890.yaml
+    modified: 1544444714026

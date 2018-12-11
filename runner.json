@@ -1,0 +1,971 @@
+{"unsaved": [
+  {
+    "tests": [
+      {
+        "tests": [
+          {
+            "path": "advanced/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/pill-buttons.rb",
+            "name": "Test pill buttons",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "advanced.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "tests": [
+          {
+            "path": "basic/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/pill-buttons.rb",
+            "name": "Pill buttons Test",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "basic.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "path": "empty.rb",
+        "name": "Empty Test Case",
+        "state": "SUCCESS"
+      }
+    ],
+    "name": "AllTests",
+    "run-on": "Fri Dec 07 11:53:49 IST 2018",
+    "state": "SUCCESS",
+    "runReportDir": "ju-2018-12-07-11-53-49",
+    "run-duration": "111 seconds"
+  },
+  {
+    "tests": [
+      {
+        "path": "advanced/radio-button.rb",
+        "name": "Test Radio Button",
+        "state": "SUCCESS"
+      },
+      {
+        "path": "basic/radio-button.rb",
+        "name": "Test Radio Button",
+        "state": "SUCCESS"
+      }
+    ],
+    "name": "Multiple Tests",
+    "run-on": "Fri Dec 07 12:42:30 IST 2018",
+    "state": "SUCCESS",
+    "runReportDir": "ju-2018-12-07-12-42-30",
+    "run-duration": "19 seconds"
+  },
+  {
+    "tests": [
+      {
+        "tests": [
+          {
+            "path": "advanced/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/pill-buttons.rb",
+            "name": "Test pill buttons",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "advanced.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "tests": [
+          {
+            "path": "basic/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/pill-buttons.rb",
+            "name": "Pill buttons Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/tab-pane.rb",
+            "name": "Test Tab-pane",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "basic.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "path": "empty.rb",
+        "name": "Empty Test Case",
+        "state": "SUCCESS"
+      }
+    ],
+    "name": "AllTests",
+    "run-on": "Mon Dec 10 11:33:09 IST 2018",
+    "state": "SUCCESS",
+    "runReportDir": "ju-2018-12-10-11-33-09",
+    "run-duration": "191 seconds"
+  },
+  {
+    "tests": [
+      {
+        "tests": [
+          {
+            "path": "advanced/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/pill-buttons.rb",
+            "name": "Test pill buttons",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "advanced.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "tests": [
+          {
+            "path": "basic/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/pill-buttons.rb",
+            "name": "Pill buttons Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/tab-pane.rb",
+            "name": "Test Tab-pane",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "basic.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "path": "empty.rb",
+        "name": "Empty Test Case",
+        "state": "SUCCESS"
+      }
+    ],
+    "name": "AllTests",
+    "run-on": "Mon Dec 10 11:39:45 IST 2018",
+    "state": "SUCCESS",
+    "runReportDir": "ju-2018-12-10-11-39-45",
+    "run-duration": "180 seconds"
+  },
+  {
+    "tests": [
+      {
+        "tests": [
+          {
+            "path": "advanced/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/pill-buttons.rb",
+            "name": "Test pill buttons",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "advanced.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "tests": [
+          {
+            "path": "basic/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/pill-buttons.rb",
+            "name": "Pill buttons Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/tab-pane.rb",
+            "name": "Test Tab-pane",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "basic.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "path": "empty.rb",
+        "name": "Empty Test Case",
+        "state": "SUCCESS"
+      }
+    ],
+    "name": "AllTests",
+    "run-on": "Mon Dec 10 11:44:02 IST 2018",
+    "state": "SUCCESS",
+    "runReportDir": "ju-2018-12-10-11-44-02",
+    "run-duration": "191 seconds"
+  },
+  {
+    "tests": [
+      {
+        "tests": [
+          {
+            "path": "advanced/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/pill-buttons.rb",
+            "name": "Test pill buttons",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "advanced.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "tests": [
+          {
+            "path": "basic/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/pill-buttons.rb",
+            "name": "Pill buttons Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/tab-pane.rb",
+            "name": "Test Tab-pane",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "basic.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "path": "empty.rb",
+        "name": "Empty Test Case",
+        "state": "SUCCESS"
+      }
+    ],
+    "name": "AllTests",
+    "run-on": "Mon Dec 10 12:10:09 IST 2018",
+    "state": "SUCCESS",
+    "runReportDir": "ju-2018-12-10-12-10-09",
+    "run-duration": "202 seconds"
+  },
+  {
+    "tests": [
+      {
+        "tests": [
+          {
+            "path": "advanced/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/pill-buttons.rb",
+            "name": "Test pill buttons",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "advanced.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "tests": [
+          {
+            "path": "basic/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/pill-buttons.rb",
+            "name": "Pill buttons Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/tab-pane.rb",
+            "name": "Test Tab-pane",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "basic.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "path": "empty.rb",
+        "name": "Empty Test Case",
+        "state": "SUCCESS"
+      }
+    ],
+    "name": "AllTests",
+    "run-on": "Mon Dec 10 12:44:48 IST 2018",
+    "state": "SUCCESS",
+    "runReportDir": "ju-2018-12-10-12-44-48",
+    "run-duration": "194 seconds"
+  },
+  {
+    "tests": [{
+      "path": "advanced/check-box.rb",
+      "name": "Check Box Test",
+      "state": "SUCCESS"
+    }],
+    "name": "SelectedTests",
+    "run-on": "Mon Dec 10 14:59:42 IST 2018",
+    "state": "SUCCESS",
+    "runReportDir": "ju-2018-12-10-14-59-42",
+    "run-duration": "10 seconds"
+  },
+  {
+    "tests": [
+      {
+        "tests": [
+          {
+            "path": "advanced/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/color-button.rb",
+            "name": "Test Color Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/pill-buttons.rb",
+            "name": "Test pill buttons",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/table-view.rb",
+            "name": "Test TableView",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/text-field.rb",
+            "name": "Test Text Field",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "advanced.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "tests": [
+          {
+            "path": "basic/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/color-button.rb",
+            "name": "Test Color Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/pill-buttons.rb",
+            "name": "Pill buttons Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/tab-pane.rb",
+            "name": "Test Tab-pane",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/table-view.rb",
+            "name": "Test TableView",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/text-field.rb",
+            "name": "Test Text Field",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "basic.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "path": "empty.rb",
+        "name": "Empty Test Case",
+        "state": "SUCCESS"
+      }
+    ],
+    "name": "AllTests",
+    "run-on": "Mon Dec 10 15:00:06 IST 2018",
+    "state": "SUCCESS",
+    "runReportDir": "ju-2018-12-10-15-00-06",
+    "run-duration": "260 seconds"
+  },
+  {
+    "tests": [
+      {
+        "tests": [
+          {
+            "path": "advanced/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/color-button.rb",
+            "name": "Test Color Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/html-editor.rb",
+            "name": "Test HTML Editor",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/pill-buttons.rb",
+            "name": "Test pill buttons",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/progress-bar.rb",
+            "name": "Test Progress bar",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/table-view.rb",
+            "name": "Test TableView",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "advanced/text-field.rb",
+            "name": "Test Text Field",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "advanced.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "tests": [
+          {
+            "path": "basic/check-box.rb",
+            "name": "Check Box Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/color-button.rb",
+            "name": "Test Color Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/color-picker.rb",
+            "name": "Color Picker Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/date-picker.rb",
+            "name": "Test Date Picker",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/dialog.rb",
+            "name": "Test Dialogs",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/html-editor.rb",
+            "name": "Test HTML Editor",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/list-view.rb",
+            "name": "Test List View",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/pill-buttons.rb",
+            "name": "Pill buttons Test",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/progress-bar.rb",
+            "name": "Test Progress bar",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/radio-button.rb",
+            "name": "Test Radio Button",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/spinner-test.rb",
+            "name": "Test Spinner ",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/split-pane.rb",
+            "name": "Test Splitpane",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/tab-pane.rb",
+            "name": "Test Tab-pane",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/table-view.rb",
+            "name": "Test TableView",
+            "state": "SUCCESS"
+          },
+          {
+            "path": "basic/text-field.rb",
+            "name": "Test Text Field",
+            "state": "SUCCESS"
+          }
+        ],
+        "name": "basic.AllTests",
+        "state": "SUCCESS"
+      },
+      {
+        "path": "empty.rb",
+        "name": "Empty Test Case",
+        "state": "SUCCESS"
+      }
+    ],
+    "name": "AllTests",
+    "run-on": "Mon Dec 10 18:08:49 IST 2018",
+    "state": "SUCCESS",
+    "runReportDir": "ju-2018-12-10-18-08-49",
+    "run-duration": "304 seconds"
+  }
+]}

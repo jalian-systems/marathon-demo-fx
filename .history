@@ -1,0 +1,33 @@
+$btns = driver.find_elements(:css, 'button')
+$btns.length
+$btns.each { |b| puts b.text}
+$redBtn = driver.find_element(:css,'button[text ='"Red"]')
+$redBtn = driver.find_element(:css,'button[text ="Red"]')
+$redBtn.click
+$redBtn.clock
+$redBtn.click
+$redBtn.hover
+$redBtn.toolTip
+$redBtn['ToolTip']
+$redBtn['toolTip']
+$redBtn['text']
+$redBtn['indexOfType']
+$btns = driver.find_elements(:css, 'button')
+$btns.each {|b| puts b.text}
+$btns.each {|b| puts b[indexOfType]}
+$btns.each {|b| puts b['indexOfType']}
+$btns.each {|b| puts b['indexOfType'] puts b.text}
+puts 'Hello'
+$btns.each {|b| puts b['indexOfType'] + b.text}
+$btns.each {|b| puts b['indexOfType'] + b.text + b['labeledBy']}
+$btns.each {|b| puts b['indexOfType'] + b.text}
+$btns.each {|b| puts b['indexOfType'] + b['cText']}
+$btns = driver.find_elements(:css, 'button')
+$btns.each {|b| puts b['indexOfType'] + b['cText']}
+$btns.each {|b| puts b['indexOfType'] + b['text']}
+$cb = driver.find_element(:css, "combo-box[indexOfType ='2']")
+$cb.methods
+driver.execute_script('$1.getSelectionModel().select("36 pt");', $cb)
+driver.execute_script('$1.getSelectionModel().select("42 pt");', $cb)
+$s
+$sp

@@ -1,0 +1,33 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: hyperlink}
+    - {method: equals, name: fieldName, value: detailsButton}
+    created: 1544162396906
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Hyperlink}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: hyperlink}
+    - {name: instanceOf, value: javafx.scene.control.Hyperlink}
+    - {name: type, value: hyperlink}
+    - {name: cText, value: Show Details}
+    - {name: indexOfType, value: '0'}
+    - {name: fieldName, value: detailsButton}
+    modified: 0
+    name: Show Details
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: OK}
+    created: 1544162399677
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: OK}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: OK
+    used: true

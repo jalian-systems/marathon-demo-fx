@@ -1,0 +1,1002 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: Id, value: list}
+    - {method: equals, name: tagName, value: toggle-button}
+    created: 1544110097306
+    generalProperties:
+    - {name: name, value: list}
+    - {name: id, value: list}
+    - {name: tagName, value: toggle-button}
+    - {name: Id, value: list}
+    - {name: indexOfType, value: '4'}
+    - {name: component.class.name, value: javafx.scene.control.ToggleButton}
+    - {name: instanceOf, value: javafx.scene.control.ToggleButton}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: toggle-button}
+    modified: 0
+    name: list
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: list-view}
+    - {method: equals, name: indexOfType, value: '1'}
+    created: 1544110102895
+    generalProperties:
+    - {name: component.class.name, value: ensemble.SamplePopoverTreeList}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: list-view}
+    - {name: instanceOf, value: javafx.scene.control.ListView}
+    - {name: type, value: list-view}
+    - {name: indexOfType, value: '1'}
+    modified: 0
+    name: list-view_1
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: list-view}
+    - {method: equals, name: indexOfType, value: '2'}
+    created: 1544110105110
+    generalProperties:
+    - {name: component.class.name, value: ensemble.SamplePopoverTreeList}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: list-view}
+    - {name: instanceOf, value: javafx.scene.control.ListView}
+    - {name: type, value: list-view}
+    - {name: indexOfType, value: '2'}
+    modified: 0
+    name: list-view_2
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: list-view}
+    - {method: equals, name: indexOfType, value: '3'}
+    created: 1544110107921
+    generalProperties:
+    - {name: component.class.name, value: ensemble.SamplePopoverTreeList}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: list-view}
+    - {name: instanceOf, value: javafx.scene.control.ListView}
+    - {name: type, value: list-view}
+    - {name: indexOfType, value: '3'}
+    modified: 0
+    name: list-view_3
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: toggle-button}
+    - {method: equals, name: cText, value: Center}
+    created: 1544110123589
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.ToggleButton}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: toggle-button}
+    - {name: instanceOf, value: javafx.scene.control.ToggleButton}
+    - {name: type, value: toggle-button}
+    - {name: cText, value: Center}
+    - {name: indexOfType, value: '1'}
+    modified: 0
+    name: Center
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: toggle-button}
+    - {method: equals, name: cText, value: Right}
+    created: 1544110125412
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.ToggleButton}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: toggle-button}
+    - {name: instanceOf, value: javafx.scene.control.ToggleButton}
+    - {name: type, value: toggle-button}
+    - {name: cText, value: Right}
+    - {name: indexOfType, value: '2'}
+    modified: 0
+    name: Right
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: toggle-button}
+    - {method: equals, name: cText, value: Left}
+    created: 1544110126832
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.ToggleButton}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: toggle-button}
+    - {name: instanceOf, value: javafx.scene.control.ToggleButton}
+    - {name: type, value: toggle-button}
+    - {name: cText, value: Left}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: Left
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: check-box}
+    - {method: equals, name: cText, value: Simple checkbox}
+    created: 1544157419355
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.CheckBox}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: check-box}
+    - {name: instanceOf, value: javafx.scene.control.CheckBox}
+    - {name: type, value: check-box}
+    - {name: cText, value: Simple checkbox}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: Simple checkbox
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: check-box}
+    - {method: equals, name: cText, value: Three-state checkbox}
+    created: 1544157420009
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.CheckBox}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: check-box}
+    - {name: instanceOf, value: javafx.scene.control.CheckBox}
+    - {name: type, value: check-box}
+    - {name: cText, value: Three-state checkbox}
+    - {name: indexOfType, value: '1'}
+    modified: 0
+    name: Three-state checkbox
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Colored Control}
+    created: 1544158898352
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Colored Control}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: Colored Control
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: text}
+    - {method: equals, name: cText, value: Colors}
+    created: 1544158900136
+    generalProperties:
+    - {name: component.class.name, value: com.sun.javafx.scene.control.skin.LabeledText}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: text}
+    - {name: type, value: text}
+    - {name: cText, value: Colors}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: Colors
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: color-picker}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1544158904373
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.ColorPicker}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: color-picker}
+    - {name: instanceOf, value: javafx.scene.control.ColorPicker}
+    - {name: type, value: color-picker}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: color-picker_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: date-picker}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1544162138504
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.DatePicker}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: date-picker}
+    - {name: instanceOf, value: javafx.scene.control.DatePicker}
+    - {name: type, value: date-picker}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: date-picker_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: text}
+    - {method: equals, name: cText, value: 'Date:'}
+    created: 1544162159287
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.text.Text}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: text}
+    - {name: type, value: text}
+    - {name: cText, value: 'Date:'}
+    - {name: indexOfType, value: '2'}
+    modified: 0
+    name: 'Date:'
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Create Alert}
+    created: 1544162386488
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Create Alert}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: Create Alert
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: combo-box}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1544162392970
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.ComboBox}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: combo-box}
+    - {name: instanceOf, value: javafx.scene.control.ComboBox}
+    - {name: type, value: combo-box}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: combo-box_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Create Exception Dialog}
+    created: 1544162395581
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Create Exception Dialog}
+    - {name: indexOfType, value: '1'}
+    modified: 0
+    name: Create Exception Dialog
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Create Text Input Dialog}
+    created: 1544162402554
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Create Text Input Dialog}
+    - {name: indexOfType, value: '2'}
+    modified: 0
+    name: Create Text Input Dialog
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: list-view}
+    - {method: equals, name: fieldName, value: sampleNode}
+    created: 1544165914761
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.ListView}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: list-view}
+    - {name: instanceOf, value: javafx.scene.control.ListView}
+    - {name: type, value: list-view}
+    - {name: indexOfType, value: '0'}
+    - {name: fieldName, value: sampleNode}
+    modified: 0
+    name: list-view_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: radio-button}
+    - {method: equals, name: cText, value: Bye}
+    created: 1544166322578
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.RadioButton}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: radio-button}
+    - {name: instanceOf, value: javafx.scene.control.RadioButton}
+    - {name: type, value: radio-button}
+    - {name: cText, value: Bye}
+    - {name: indexOfType, value: '1'}
+    modified: 0
+    name: Bye
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: radio-button}
+    - {method: equals, name: cText, value: Hello}
+    created: 1544166330929
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.RadioButton}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: radio-button}
+    - {name: instanceOf, value: javafx.scene.control.RadioButton}
+    - {name: type, value: radio-button}
+    - {name: cText, value: Hello}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: Hello
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: indexOfType, value: '2'}
+    created: 1544169240154
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Toggle Tab Mode}
+    - {name: indexOfType, value: '2'}
+    modified: 0
+    name: Toggle Tab Mode
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Switch to New Tab}
+    created: 1544169241114
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Switch to New Tab}
+    - {name: indexOfType, value: '3'}
+    modified: 0
+    name: Switch to New Tab
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Howdy}
+    created: 1544169244414
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Howdy}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: Howdy
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: tab-pane}
+    - {method: equals, name: fieldName, value: sampleNode}
+    created: 1544169245322
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.TabPane}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: tab-pane}
+    - {name: instanceOf, value: javafx.scene.control.TabPane}
+    - {name: type, value: tab-pane}
+    - {name: indexOfType, value: '0'}
+    - {name: fieldName, value: sampleNode}
+    modified: 0
+    name: tab-pane_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Add Tab}
+    created: 1544169247896
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Add Tab}
+    - {name: indexOfType, value: '4'}
+    modified: 0
+    name: Add Tab
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: radio-button}
+    - {method: equals, name: cText, value: ALL_TABS}
+    created: 1544169251679
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.RadioButton}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: radio-button}
+    - {name: instanceOf, value: javafx.scene.control.RadioButton}
+    - {name: type, value: radio-button}
+    - {name: cText, value: ALL_TABS}
+    - {name: indexOfType, value: '1'}
+    modified: 0
+    name: ALL_TABS
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: radio-button}
+    - {method: equals, name: cText, value: UNAVAILABLE}
+    created: 1544169252266
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.RadioButton}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: radio-button}
+    - {name: instanceOf, value: javafx.scene.control.RadioButton}
+    - {name: type, value: radio-button}
+    - {name: cText, value: UNAVAILABLE}
+    - {name: indexOfType, value: '2'}
+    modified: 0
+    name: UNAVAILABLE
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: radio-button}
+    - {method: equals, name: cText, value: SELECTED_TAB}
+    created: 1544169252849
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.RadioButton}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: radio-button}
+    - {name: instanceOf, value: javafx.scene.control.RadioButton}
+    - {name: type, value: radio-button}
+    - {name: cText, value: SELECTED_TAB}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: SELECTED_TAB
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: check-box}
+    - {method: equals, name: cText, value: Show labels on original tabs}
+    created: 1544169254390
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.CheckBox}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: check-box}
+    - {name: instanceOf, value: javafx.scene.control.CheckBox}
+    - {name: type, value: check-box}
+    - {name: cText, value: Show labels on original tabs}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: Show labels on original tabs
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: tab-pane}
+    - {method: equals, name: indexOfType, value: '1'}
+    created: 1544169258539
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.TabPane}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: tab-pane}
+    - {name: instanceOf, value: javafx.scene.control.TabPane}
+    - {name: type, value: tab-pane}
+    - {name: indexOfType, value: '1'}
+    modified: 0
+    name: tab-pane_1
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: indexOfType, value: '1'}
+    created: 1544169261496
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Toggle Tab Mode}
+    - {name: indexOfType, value: '1'}
+    modified: 0
+    name: Toggle Tab Mode_2
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Toggle Tab Position}
+    created: 1544169262613
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Toggle Tab Position}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: Toggle Tab Position
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: spinner}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1544180531273
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Spinner}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: spinner}
+    - {name: instanceOf, value: javafx.scene.control.Spinner}
+    - {name: type, value: spinner}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: spinner_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: spinner}
+    - {method: equals, name: indexOfType, value: '2'}
+    created: 1544180534574
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Spinner}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: spinner}
+    - {name: instanceOf, value: javafx.scene.control.Spinner}
+    - {name: type, value: spinner}
+    - {name: indexOfType, value: '2'}
+    modified: 0
+    name: spinner_2
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: spinner}
+    - {method: equals, name: indexOfType, value: '4'}
+    created: 1544180536894
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Spinner}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: spinner}
+    - {name: instanceOf, value: javafx.scene.control.Spinner}
+    - {name: type, value: spinner}
+    - {name: indexOfType, value: '4'}
+    modified: 0
+    name: spinner_4
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: spinner}
+    - {method: equals, name: indexOfType, value: '5'}
+    created: 1544180539113
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Spinner}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: spinner}
+    - {name: instanceOf, value: javafx.scene.control.Spinner}
+    - {name: type, value: spinner}
+    - {name: indexOfType, value: '5'}
+    modified: 0
+    name: spinner_5
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: spinner}
+    - {method: equals, name: indexOfType, value: '9'}
+    created: 1544180542777
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Spinner}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: spinner}
+    - {name: instanceOf, value: javafx.scene.control.Spinner}
+    - {name: type, value: spinner}
+    - {name: indexOfType, value: '9'}
+    modified: 0
+    name: spinner_9
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: spinner}
+    - {method: equals, name: indexOfType, value: '10'}
+    created: 1544180547048
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Spinner}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: spinner}
+    - {name: instanceOf, value: javafx.scene.control.Spinner}
+    - {name: type, value: spinner}
+    - {name: indexOfType, value: '10'}
+    modified: 0
+    name: spinner_10
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: spinner}
+    - {method: equals, name: indexOfType, value: '11'}
+    created: 1544180551258
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Spinner}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: spinner}
+    - {name: instanceOf, value: javafx.scene.control.Spinner}
+    - {name: type, value: spinner}
+    - {name: indexOfType, value: '11'}
+    modified: 0
+    name: spinner_11
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: spinner}
+    - {method: equals, name: indexOfType, value: '16'}
+    created: 1544180553545
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Spinner}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: spinner}
+    - {name: instanceOf, value: javafx.scene.control.Spinner}
+    - {name: type, value: spinner}
+    - {name: indexOfType, value: '16'}
+    modified: 0
+    name: spinner_16
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: spinner}
+    - {method: equals, name: indexOfType, value: '12'}
+    created: 1544180556299
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Spinner}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: spinner}
+    - {name: instanceOf, value: javafx.scene.control.Spinner}
+    - {name: type, value: spinner}
+    - {name: indexOfType, value: '12'}
+    modified: 0
+    name: spinner_12
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: spinner}
+    - {method: equals, name: indexOfType, value: '13'}
+    created: 1544180558807
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Spinner}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: spinner}
+    - {name: instanceOf, value: javafx.scene.control.Spinner}
+    - {name: type, value: spinner}
+    - {name: indexOfType, value: '13'}
+    modified: 0
+    name: spinner_13
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: spinner}
+    - {method: equals, name: indexOfType, value: '14'}
+    created: 1544180562197
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Spinner}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: spinner}
+    - {name: instanceOf, value: javafx.scene.control.Spinner}
+    - {name: type, value: spinner}
+    - {name: indexOfType, value: '14'}
+    modified: 0
+    name: spinner_14
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: spinner}
+    - {method: equals, name: indexOfType, value: '15'}
+    created: 1544180567086
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Spinner}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: spinner}
+    - {name: instanceOf, value: javafx.scene.control.Spinner}
+    - {name: type, value: spinner}
+    - {name: indexOfType, value: '15'}
+    modified: 0
+    name: spinner_15
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: table-view}
+    - {method: equals, name: fieldName, value: sampleNode}
+    created: 1544426385553
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.TableView}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: table-view}
+    - {name: instanceOf, value: javafx.scene.control.TableView}
+    - {name: type, value: table-view}
+    - {name: indexOfType, value: '0'}
+    - {name: fieldName, value: sampleNode}
+    modified: 0
+    name: table-view_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: text-field}
+    - {method: equals, name: fieldName, value: sampleNode}
+    created: 1544426772908
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.TextField}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: text-field}
+    - {name: instanceOf, value: javafx.scene.control.TextField}
+    - {name: type, value: text-field}
+    - {name: indexOfType, value: '0'}
+    - {name: fieldName, value: sampleNode}
+    modified: 0
+    name: text-field_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Red}
+    created: 1544431301237
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Red}
+    - {name: indexOfType, value: '7'}
+    modified: 0
+    name: Red
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Orange}
+    created: 1544431303634
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Orange}
+    - {name: indexOfType, value: '8'}
+    modified: 0
+    name: Orange
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: indexOfType, value: '4'}
+    created: 1544431305800
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Color}
+    - {name: indexOfType, value: '4'}
+    modified: 0
+    name: Color
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1544431310788
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Color}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: Color_2
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: indexOfType, value: '3'}
+    created: 1544431316613
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Color}
+    - {name: indexOfType, value: '3'}
+    modified: 0
+    name: Color_3
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: indexOfType, value: '5'}
+    created: 1544431318092
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Color}
+    - {name: indexOfType, value: '5'}
+    modified: 0
+    name: Color_4
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: indexOfType, value: '6'}
+    created: 1544431319611
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Color}
+    - {name: indexOfType, value: '6'}
+    modified: 0
+    name: Color_5
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Violet}
+    created: 1544431320780
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Violet}
+    - {name: indexOfType, value: '13'}
+    modified: 0
+    name: Violet
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Indigo}
+    created: 1544431322079
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Indigo}
+    - {name: indexOfType, value: '12'}
+    modified: 0
+    name: Indigo
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Blue}
+    created: 1544431323086
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Blue}
+    - {name: indexOfType, value: '11'}
+    modified: 0
+    name: Blue
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: combo-box}
+    - {method: equals, name: indexOfType, value: '2'}
+    created: 1544439975022
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.ComboBox}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: combo-box}
+    - {name: instanceOf, value: javafx.scene.control.ComboBox}
+    - {name: type, value: combo-box}
+    - {name: indexOfType, value: '2'}
+    modified: 0
+    name: combo-box_2
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: html-editor}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1544440005083
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.web.HTMLEditor}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: html-editor}
+    - {name: instanceOf, value: javafx.scene.control.Control}
+    - {name: type, value: html-editor}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: html-editor_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: progress-bar}
+    - {method: equals, name: indexOfType, value: '3'}
+    created: 1544442003496
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.ProgressBar}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: progress-bar}
+    - {name: instanceOf, value: javafx.scene.control.ProgressBar}
+    - {name: type, value: progress-bar}
+    - {name: indexOfType, value: '3'}
+    modified: 0
+    name: progress-bar_3
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: progress-bar}
+    - {method: equals, name: indexOfType, value: '4'}
+    created: 1544442007037
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.ProgressBar}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: progress-bar}
+    - {name: instanceOf, value: javafx.scene.control.ProgressBar}
+    - {name: type, value: progress-bar}
+    - {name: indexOfType, value: '4'}
+    modified: 0
+    name: progress-bar_4
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: progress-bar}
+    - {method: equals, name: indexOfType, value: '5'}
+    created: 1544442010421
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.ProgressBar}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: progress-bar}
+    - {name: instanceOf, value: javafx.scene.control.ProgressBar}
+    - {name: type, value: progress-bar}
+    - {name: indexOfType, value: '5'}
+    modified: 0
+    name: progress-bar_5
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: progress-bar}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1544442021353
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.ProgressBar}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: progress-bar}
+    - {name: instanceOf, value: javafx.scene.control.ProgressBar}
+    - {name: type, value: progress-bar}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: progress-bar_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: Id, value: hiddenSplitter}
+    - {method: equals, name: tagName, value: split-pane}
+    created: 1544444689173
+    generalProperties:
+    - {name: name, value: hiddenSplitter}
+    - {name: id, value: hiddenSplitter}
+    - {name: tagName, value: split-pane}
+    - {name: Id, value: hiddenSplitter}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javafx.scene.control.SplitPane}
+    - {name: instanceOf, value: javafx.scene.control.SplitPane}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: split-pane}
+    - {name: fieldName, value: sampleNode}
+    modified: 0
+    name: hiddenSplitter
+    used: true
