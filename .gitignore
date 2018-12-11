@@ -1,5 +1,4 @@
 console.log
 console.log*
-project.json
 TestReports/
-TestData/
+runner.json
